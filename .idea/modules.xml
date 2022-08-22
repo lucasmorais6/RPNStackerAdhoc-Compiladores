@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RPNStacker Adhoc.iml" filepath="$PROJECT_DIR$/RPNStacker Adhoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPNStackerAdhoc.iml" filepath="$PROJECT_DIR$/RPNStackerAdhoc.iml" />
     </modules>
   </component>
 </project>
